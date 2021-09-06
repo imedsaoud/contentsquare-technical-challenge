@@ -1,0 +1,15 @@
+{
+  "name": "lawnmower",
+  "version": "1.0.0",
+  "description": "Technical test for contentSquare",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Saoud Imed",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "chai": "^4.2.0"
+  },
+  "dependencies": {}
+}
