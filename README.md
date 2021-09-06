@@ -8,7 +8,7 @@
 `git clone https://github.com/imedsaoud/contentsquare-technical-challenge`
 `cd contentsquare-technical-challenge/`  
 `npm install`  
-`npm start`  
+`node src/index.js`  
 
 ## Usage
 
