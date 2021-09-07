@@ -12,7 +12,7 @@
 
 ## Usage
 
-Edit the mower intrucstions in config.cfg
+Edit the mower intsructions in data/instructions.txt
 
 #### Test Instruction - ContentSquare
 ContentSquare is building an automatic lawn mower designed to mow rectangular surfaces.
